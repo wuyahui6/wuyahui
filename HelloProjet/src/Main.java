@@ -5,12 +5,13 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
-        System.out.println("µÚÒ»´ÎÐÞ¸Ä");
-        System.out.println("µÚÒ»´ÎÐÞ¸Ä");
-        System.out.println("µÚ¶þ´ÎÐÞ¸Ä");
-        System.out.println("µÚÈý´ÎÐÞ¸Ä");
-        System.out.println("µÚÁù´ÎÐÞ¸Ä");
-        System.out.println("µÚÆß´ÎÐÞ¸Ä");
-        System.out.println("µÚ°Ë´ÎÐÞ¸Ä");
+        System.out.println("ï¿½ï¿½Ò»ï¿½ï¿½ï¿½Þ¸ï¿½");
+        System.out.println("ï¿½ï¿½Ò»ï¿½ï¿½ï¿½Þ¸ï¿½");
+        System.out.println("ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½Þ¸ï¿½");
+        System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¸ï¿½");
+        System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¸ï¿½");
+        System.out.println("ï¿½ï¿½ï¿½ß´ï¿½ï¿½Þ¸ï¿½");
+        System.out.println("ï¿½Ú°Ë´ï¿½ï¿½Þ¸ï¿½");
+        System.out.println("åœ¨IdeaZHONG");
     }
 }
