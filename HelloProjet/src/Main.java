@@ -18,5 +18,6 @@ public class Main {
         System.out.println("idea第二次修改");
         System.out.println("小明第二次修改");
         System.out.println("idea第三次修改");
+        System.out.println("小明第三次修改");
     }
 }
